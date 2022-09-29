@@ -53,7 +53,7 @@ app.use((err, req, res, next) => {
 //   res.json(cource);
 // });
  
-// const DBConnectionString = "mongodb+srv://admin:admin@cluster0.nseccbt.mongodb.net/?retryWrites=true&w=majority"
+// 
  
 mongoose.connect(process.env.DBConnectionString, {
     useNewUrlParser: true,

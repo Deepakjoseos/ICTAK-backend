@@ -6,9 +6,10 @@ How to install
 download the code
 
 open the code in terminal and type 
-#npm install 
+
+npm install 
 
 which will install node modules and to start the code
 
-#npm start
+npm start
 
